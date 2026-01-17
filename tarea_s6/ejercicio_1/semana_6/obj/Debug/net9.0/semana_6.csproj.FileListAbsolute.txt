@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ESTRUCTURA_CORREA\tarea_s6\ejercicio_1\semana_6\bin\Debug\net9.0\semana_6.exe
+C:\Users\User\Desktop\ESTRUCTURA_CORREA\tarea_s6\ejercicio_1\semana_6\bin\Debug\net9.0\semana_6.deps.json
+C:\Users\User\Desktop\ESTRUCTURA_CORREA\tarea_s6\ejercicio_1\semana_6\bin\Debug\net9.0\semana_6.runtimeconfig.json
+C:\Users\User\Desktop\ESTRUCTURA_CORREA\tarea_s6\ejercicio_1\semana_6\bin\Debug\net9.0\semana_6.dll
+C:\Users\User\Desktop\ESTRUCTURA_CORREA\tarea_s6\ejercicio_1\semana_6\bin\Debug\net9.0\semana_6.pdb
+C:\Users\User\Desktop\ESTRUCTURA_CORREA\tarea_s6\ejercicio_1\semana_6\obj\Debug\net9.0\semana_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ESTRUCTURA_CORREA\tarea_s6\ejercicio_1\semana_6\obj\Debug\net9.0\semana_6.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ESTRUCTURA_CORREA\tarea_s6\ejercicio_1\semana_6\obj\Debug\net9.0\semana_6.AssemblyInfo.cs
+C:\Users\User\Desktop\ESTRUCTURA_CORREA\tarea_s6\ejercicio_1\semana_6\obj\Debug\net9.0\semana_6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ESTRUCTURA_CORREA\tarea_s6\ejercicio_1\semana_6\obj\Debug\net9.0\semana_6.sourcelink.json
+C:\Users\User\Desktop\ESTRUCTURA_CORREA\tarea_s6\ejercicio_1\semana_6\obj\Debug\net9.0\semana_6.dll
+C:\Users\User\Desktop\ESTRUCTURA_CORREA\tarea_s6\ejercicio_1\semana_6\obj\Debug\net9.0\refint\semana_6.dll
+C:\Users\User\Desktop\ESTRUCTURA_CORREA\tarea_s6\ejercicio_1\semana_6\obj\Debug\net9.0\semana_6.pdb
+C:\Users\User\Desktop\ESTRUCTURA_CORREA\tarea_s6\ejercicio_1\semana_6\obj\Debug\net9.0\semana_6.genruntimeconfig.cache
+C:\Users\User\Desktop\ESTRUCTURA_CORREA\tarea_s6\ejercicio_1\semana_6\obj\Debug\net9.0\ref\semana_6.dll
